@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.venv/
+saida/
+dados_reais/
+*.log
+!data/filter_exemplo.log
+*.gz
+*.bz2
